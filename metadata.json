@@ -1,0 +1,6 @@
+{
+  "name": "Android Compose Converter",
+  "description": "An interactive workspace to convert React components and classic Android View layers (XML/Kotlin/Java) to Jetpack Compose, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
